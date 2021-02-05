@@ -1,0 +1,3 @@
+Projeyi kullanabilmeniz için "nltk" ve "docx" kütüphanelerini eklemeniz gereklidir!
+
+
